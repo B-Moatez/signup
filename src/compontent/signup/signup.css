@@ -1,0 +1,42 @@
+
+  /* .signup {
+    display: flex !important;
+     flex-direction: column;
+     float:center;
+     
+    
+    
+} */
+.formulaire {
+display: flex !important;
+    justify-content: flex-end;
+    margin: 0px -150px 0px 0px;
+    padding-top: 100px;
+    border: solid;
+    box-sizing: border-box
+}
+.sel {
+    display: flex !important;
+    justify-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    
+    
+}
+/* .btn {
+    display: flex !important;
+    justify-content: center;
+    
+} */
+ .titre {
+    display: flex;
+    justify-content: center;
+    margin: 0px 800px 0px 0px;
+}  
+.button {
+    display: flex !important;
+    justify-content: space-around;
+    margin: 0px 500px 50px -100px;
+     padding: 20px; 
+     align-items: center
+}
