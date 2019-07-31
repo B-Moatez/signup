@@ -1,5 +1,6 @@
 import React from 'react';
 import Test from './compontent/objects/test';
+import FooterPage from './compontent/fotter';
 
 import './App.css';
 
@@ -21,7 +22,8 @@ function App() {
      <Secteur /> */}
      {/* <Gestion /> */}
       <Test /> 
-       <Slideshow />   
+        {/* <Slideshow />     */}
+       <FooterPage /> 
 
      
      
